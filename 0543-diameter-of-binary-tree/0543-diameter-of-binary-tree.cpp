@@ -16,10 +16,10 @@ public:
     {
         if(root==NULL) return 0;
 
-        int lw=getheight(root->left);
-        int rw=getheight(root->right);
+        int lh=getheight(root->left);
+        int rh=getheight(root->right);
 
-        return (lw>rw?lw:rw)+1;
+        return (lh>rh?lh:rh)+1;
     } 
     int diameterOfBinaryTree(TreeNode* root) {
         if(root==NULL) return 0;
