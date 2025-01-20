@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
@@ -179,5 +180,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0886-score-of-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 <!---LeetCode Topics End-->
