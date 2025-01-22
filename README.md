@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Simulation
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0886-score-of-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1078-remove-outermost-parentheses) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
