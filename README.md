@@ -59,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
 | [0695-max-area-of-island](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
+| [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
+| [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0886-score-of-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0064-minimum-path-sum) |
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
+| [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
+| [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
