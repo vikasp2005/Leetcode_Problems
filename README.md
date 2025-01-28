@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
+| [1250-longest-common-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1250-longest-common-subsequence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0064-minimum-path-sum) |
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
 | [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
+| [1250-longest-common-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
