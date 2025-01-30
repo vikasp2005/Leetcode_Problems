@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0062-unique-paths) |
+| [0343-integer-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0504-base-7](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1013-fibonacci-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0064-minimum-path-sum) |
+| [0343-integer-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [1013-fibonacci-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1013-fibonacci-number) |
