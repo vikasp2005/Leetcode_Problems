@@ -72,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [1651-shuffle-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1651-shuffle-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
+| [2232-adding-spaces-to-a-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [2232-adding-spaces-to-a-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 ## String
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1651-shuffle-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1651-shuffle-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2232-adding-spaces-to-a-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
