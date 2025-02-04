@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1651-shuffle-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2232-adding-spaces-to-a-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/vikasp2005/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0139-word-break) |
 | [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/vikasp2005/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Sliding Window
 |  |
 | ------- |
