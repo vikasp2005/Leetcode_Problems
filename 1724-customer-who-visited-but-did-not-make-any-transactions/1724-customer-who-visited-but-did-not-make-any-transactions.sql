@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select customer_id,count(customer_id ) as count_no_trans from Visits  natural left join Transactions where transaction_id is null group by customer_id order by count_no_trans desc
