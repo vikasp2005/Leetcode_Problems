@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0062-unique-paths) |
+| [0258-add-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0313-super-ugly-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 ## String
 |  |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1086-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
