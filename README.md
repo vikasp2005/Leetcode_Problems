@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1070-convert-to-base-2) |
 | [1086-divisor-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1086-divisor-game) |
+| [1806-count-of-matches-in-tournament](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2383-add-two-integers) |
 ## Backtracking
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0258-add-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2232-adding-spaces-to-a-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 ## String
 |  |
