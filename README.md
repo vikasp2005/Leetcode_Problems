@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1086-divisor-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2383-add-two-integers) |
+| [2748-calculate-delayed-arrival-time](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/2748-calculate-delayed-arrival-time) |
 ## Backtracking
 |  |
 | ------- |
