@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2383-add-two-integers) |
 | [2748-calculate-delayed-arrival-time](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/2748-calculate-delayed-arrival-time) |
+| [2857-total-distance-traveled](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/2857-total-distance-traveled) |
 ## Backtracking
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0258-add-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2232-adding-spaces-to-a-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2857-total-distance-traveled](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/2857-total-distance-traveled) |
 ## String
 |  |
 | ------- |
