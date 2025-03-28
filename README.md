@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0481-magical-string](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0481-magical-string) |
 | [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [2232-adding-spaces-to-a-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 ## Depth-First Search
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
+| [0481-magical-string](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0481-magical-string) |
 | [0886-score-of-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1078-remove-outermost-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1078-remove-outermost-parentheses) |
