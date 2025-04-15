@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0518-coin-change-ii) |
+| [0815-champagne-tower](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0815-champagne-tower) |
 | [1013-fibonacci-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1086-divisor-game) |
 | [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
