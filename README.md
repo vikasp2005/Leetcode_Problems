@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1030-smallest-string-starting-from-leaf) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1030-smallest-string-starting-from-leaf) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [1651-shuffle-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1651-shuffle-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1086-divisor-game) |
 | [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1250-longest-common-subsequence) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0134-gas-station) |
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
