@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0396-rotate-function) |
+| [0495-teemo-attacking](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0695-max-area-of-island) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [1806-count-of-matches-in-tournament](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2232-adding-spaces-to-a-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2232-adding-spaces-to-a-string) |
