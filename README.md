@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0054-spiral-matrix) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
