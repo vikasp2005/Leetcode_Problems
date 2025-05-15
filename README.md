@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0460-lfu-cache) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0220-contains-duplicate-iii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Data Stream
 |  |
 | ------- |
