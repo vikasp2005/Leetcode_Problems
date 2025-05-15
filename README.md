@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0495-teemo-attacking](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
+| [0502-ipo](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0546-remove-boxes) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0502-ipo) |
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 ## Heap (Priority Queue)
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0420-strong-password-checker](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0420-strong-password-checker) |
+| [0502-ipo](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0502-ipo) |
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0420-strong-password-checker) |
+| [0502-ipo](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0517-super-washing-machines) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Hash Table
