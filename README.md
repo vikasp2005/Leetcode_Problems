@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0441-arranging-coins) |
+| [0483-smallest-good-base](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0483-smallest-good-base) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0441-arranging-coins) |
 | [0458-poor-pigs](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0458-poor-pigs) |
+| [0483-smallest-good-base](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0483-smallest-good-base) |
 | [0504-base-7](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0504-base-7) |
 | [0564-find-the-closest-palindrome](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1013-fibonacci-number) |
