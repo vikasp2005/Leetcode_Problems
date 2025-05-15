@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
@@ -494,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Line Sweep
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
