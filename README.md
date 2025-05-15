@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
+| [0233-number-of-digit-one](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0313-super-ugly-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0343-integer-break) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0174-dungeon-game) |
+| [0233-number-of-digit-one](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
 | [0313-super-ugly-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0357-count-numbers-with-unique-digits) |
