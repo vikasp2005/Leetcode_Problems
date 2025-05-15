@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0546-remove-boxes) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0514-freedom-trail](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0514-freedom-trail) |
 | [0547-number-of-provinces](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0547-number-of-provinces) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 ## Math
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 ## Database
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0420-strong-password-checker](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0420-strong-password-checker) |
 | [0502-ipo](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0502-ipo) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
