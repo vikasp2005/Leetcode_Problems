@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0200-number-of-islands) |
+| [0218-the-skyline-problem](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0190-reverse-bits) |
+| [0218-the-skyline-problem](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0218-the-skyline-problem) |
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -506,13 +509,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Line Sweep
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0218-the-skyline-problem) |
 | [0391-perfect-rectangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0391-perfect-rectangle) |
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0220-contains-duplicate-iii) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
