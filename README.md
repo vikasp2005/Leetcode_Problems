@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0336-palindrome-pairs) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0460-lfu-cache) |
 | [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0460-lfu-cache) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0460-lfu-cache) |
 ## Randomized
 |  |
 | ------- |
