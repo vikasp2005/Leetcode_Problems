@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0420-strong-password-checker](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0420-strong-password-checker) |
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0336-palindrome-pairs) |
+| [0420-strong-password-checker](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0420-strong-password-checker) |
 | [0481-magical-string](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0481-magical-string) |
 | [0514-freedom-trail](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0514-freedom-trail) |
 | [0564-find-the-closest-palindrome](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0564-find-the-closest-palindrome) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0420-strong-password-checker) |
 | [0517-super-washing-machines](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0517-super-washing-machines) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Hash Table
