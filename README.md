@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0886-score-of-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1078-remove-outermost-parentheses) |
 ## Combinatorics
@@ -418,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0335-self-crossing) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
