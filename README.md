@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0495-teemo-attacking](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0514-freedom-trail](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0518-coin-change-ii) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0134-gas-station) |
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Hash Table
 |  |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 ## Geometry
 |  |
 | ------- |
