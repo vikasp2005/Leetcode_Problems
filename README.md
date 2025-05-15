@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0206-reverse-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
 ## Recursion
 |  |
 | ------- |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
+| [0432-all-oone-data-structure](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
 | [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0432-all-oone-data-structure](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -467,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
