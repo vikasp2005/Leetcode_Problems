@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0313-super-ugly-number) |
 | [0335-self-crossing](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0335-self-crossing) |
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0174-dungeon-game) |
 | [0233-number-of-digit-one](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
+| [0312-burst-balloons](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0357-count-numbers-with-unique-digits) |
