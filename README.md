@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0396-rotate-function](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0441-arranging-coins) |
+| [0458-poor-pigs](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0458-poor-pigs) |
 | [0504-base-7](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0504-base-7) |
 | [0564-find-the-closest-palindrome](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1013-fibonacci-number) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0458-poor-pigs) |
 | [0514-freedom-trail](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0546-remove-boxes) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0458-poor-pigs) |
 ## Trie
 |  |
 | ------- |
