@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0396-rotate-function](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0396-rotate-function) |
+| [0403-frog-jump](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0495-teemo-attacking](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0495-teemo-attacking) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0396-rotate-function) |
+| [0403-frog-jump](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0514-freedom-trail](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0514-freedom-trail) |
