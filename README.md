@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0313-super-ugly-number) |
+| [0330-patching-array](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0330-patching-array) |
 | [0335-self-crossing](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0335-self-crossing) |
 | [0354-russian-doll-envelopes](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0135-candy) |
+| [0330-patching-array](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0517-super-washing-machines](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0517-super-washing-machines) |
