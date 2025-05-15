@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0695-max-area-of-island) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Union Find
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0481-magical-string](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0481-magical-string) |
 | [0886-score-of-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1030-smallest-string-starting-from-leaf) |
