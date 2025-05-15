@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0118-pascals-triangle) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0139-word-break) |
