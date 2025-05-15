@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
+| [0488-zuma-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0514-freedom-trail) |
 | [0547-number-of-provinces](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0336-palindrome-pairs) |
 | [0420-strong-password-checker](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0420-strong-password-checker) |
 | [0481-magical-string](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0481-magical-string) |
+| [0488-zuma-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0514-freedom-trail) |
 | [0564-find-the-closest-palindrome](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0886-score-of-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0458-poor-pigs) |
+| [0488-zuma-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0546-remove-boxes) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0224-basic-calculator) |
+| [0488-zuma-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0488-zuma-game) |
 | [0886-score-of-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1078-remove-outermost-parentheses) |
 ## Combinatorics
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0140-word-break-ii) |
+| [0488-zuma-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0488-zuma-game) |
 | [0546-remove-boxes](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0546-remove-boxes) |
 | [1013-fibonacci-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## Graph
