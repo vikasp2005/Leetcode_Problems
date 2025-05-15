@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0139-word-break) |
