@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0514-freedom-trail](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0518-coin-change-ii) |
+| [0552-student-attendance-record-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0552-student-attendance-record-ii) |
 | [0815-champagne-tower](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0815-champagne-tower) |
 | [1013-fibonacci-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1086-divisor-game) |
