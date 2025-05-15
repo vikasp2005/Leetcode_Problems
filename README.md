@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0357-count-numbers-with-unique-digits) |
