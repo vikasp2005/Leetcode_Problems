@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0233-number-of-digit-one](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0258-add-digits) |
+| [0282-expression-add-operators](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0313-super-ugly-number) |
 | [0335-self-crossing](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0335-self-crossing) |
 | [0343-integer-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0343-integer-break) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0481-magical-string](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0481-magical-string) |
 | [0886-score-of-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
