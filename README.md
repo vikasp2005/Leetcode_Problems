@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1013-fibonacci-number) |
 ## Binary Search
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0282-expression-add-operators) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0886-score-of-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1078-remove-outermost-parentheses) |
 ## Combinatorics
