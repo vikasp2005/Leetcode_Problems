@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
 ## Sorting
@@ -215,11 +217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
