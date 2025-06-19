@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0546-remove-boxes) |
+| [0575-distribute-candies](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0460-lfu-cache) |
+| [0575-distribute-candies](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [1129-longest-string-chain](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1129-longest-string-chain) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/3405-count-the-number-of-special-characters-ii) |
