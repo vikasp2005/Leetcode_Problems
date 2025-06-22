@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0948-sort-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Simulation
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0336-palindrome-pairs) |
+| [0383-ransom-note](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0420-strong-password-checker](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0420-strong-password-checker) |
 | [0481-magical-string](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0481-magical-string) |
 | [0488-zuma-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0488-zuma-game) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0336-palindrome-pairs](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0336-palindrome-pairs) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0383-ransom-note](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0460-lfu-cache) |
 | [0575-distribute-candies](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0575-distribute-candies) |
