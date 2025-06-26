@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0068-text-justification) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0068-text-justification) |
