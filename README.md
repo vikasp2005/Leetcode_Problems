@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0338-counting-bits) |
 ## Tree
 |  |
 | ------- |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0313-super-ugly-number) |
+| [0338-counting-bits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0357-count-numbers-with-unique-digits) |
