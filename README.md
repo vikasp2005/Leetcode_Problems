@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Binary Tree
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Array
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0695-max-area-of-island) |
+| [1005-univalued-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0695-max-area-of-island) |
+| [1005-univalued-binary-tree](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1005-univalued-binary-tree) |
 ## Math
 |  |
 | ------- |
