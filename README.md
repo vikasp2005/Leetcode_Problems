@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0338-counting-bits) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0118-pascals-triangle) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0257-binary-tree-paths) |
