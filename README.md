@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vikasp2005/Leetcode_Daily_Problems/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0460-lfu-cache) |
+| [2573-remove-nodes-from-linked-list](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1013-fibonacci-number) |
+| [2573-remove-nodes-from-linked-list](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0488-zuma-game) |
 | [0886-score-of-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vikasp2005/Leetcode_Problems/tree/master/1078-remove-outermost-parentheses) |
+| [2573-remove-nodes-from-linked-list](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vikasp2005/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [2573-remove-nodes-from-linked-list](https://github.com/vikasp2005/Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
